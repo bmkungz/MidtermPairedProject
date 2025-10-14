@@ -15,7 +15,6 @@ This project utilizes two datasets related to the World Happiness Report:
    * Generosity
    * Perceptions of corruption
 2. **world-happiness-report.csv**: Contains historical, multi-year data, including the core metrics like **Life Ladder** (happiness score) and the main explanatory variables over a range of years.
-3. 
 ## Files in this Repository
 File Name |	Description
 ----|----
