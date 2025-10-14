@@ -5,15 +5,15 @@ This project is a preliminary data analysis exercise using historical and recent
 
 ## Data Sources
 This project utilizes two datasets related to the World Happiness Report:
-1. world-happiness-report-2021.csv: Contains the 2021 World Happiness data, including metrics such as:
+1. **world-happiness-report-2021.csv:** Contains the 2021 World Happiness data, including metrics such as:
 
- * Ladder score (The main happiness score)
- * Logged GDP per capita
- * Social support
- * Healthy life expectancy
- * Freedom to make life choices
- * Generosity
- * Perceptions of corruption
+   * Ladder score (The main happiness score)
+   * Logged GDP per capita
+   * Social support
+   * Healthy life expectancy
+   * Freedom to make life choices
+   * Generosity
+   * Perceptions of corruption
 2. **world-happiness-report.csv**: Contains historical, multi-year data, including the core metrics like **Life Ladder** (happiness score) and the main explanatory variables over a range of years.
 <br />**Note:** The CSV files themselves were not provided, but the code assumes they are in the same directory as the notebook.
 ## Files in this Repository
