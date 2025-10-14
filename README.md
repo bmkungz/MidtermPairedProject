@@ -27,12 +27,17 @@ File Name |	Description
 ### Requirements
 This project requires **Python 3.x** and the following library:
 * **Pandas**
+* **Matplotlib** (for plotting)
+* **Seaborn** (for enhanced statistical data visualization)
 
 ### Installation
 1. **Clone the repository** (if hosted in a version control system).
 2. **Install the required library** using pip:
 ```
-pip install pandas
+Bash
+```
+```
+pip install pandas matplotlib seaborn
 ```
 3. **Ensure the data files** (world-happiness-report-2021.csv and world-happiness-report.csv) are placed in the same directory as the Paired_Project.ipynb file.
 
